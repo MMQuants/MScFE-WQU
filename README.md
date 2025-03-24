@@ -1,5 +1,5 @@
 # MScFE-WQU
-Projects done during the Master of Financial Engineering Program of WQU
+Projects done during WorldQuants University Master of Financial Engineering Program
 
 ## Course Title:
 
